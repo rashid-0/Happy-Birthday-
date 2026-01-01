@@ -1,0 +1,7 @@
+{
+  "name": "A Special Birthday Wish",
+  "description": "A deeply personal and interactive birthday tribute featuring a desert night sky, affirmation wall, a 6-chapter story, and interactive cake celebration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
